@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://ilyasaalmadani.github.io/panezo-site/sitemap.xml
+Sitemap: https://jijilabsdigital.com/sitemap.xml
